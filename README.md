@@ -1,5 +1,5 @@
 # Visible-Xray Cross-Modality Package Re-Identification
-
+The code will be released.
 This repository is Pytorch code for our proposed Baseline method for Cross-Modality Package Re-Identification. 
 
 ### Dataset.
